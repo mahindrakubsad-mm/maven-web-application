@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.250.226:8081/repository/maven_mithun_web_application_release/</url>
+	      <url>http://13.235.42.112:8081/repository/mahindra_release_new/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.250.226:8081/repository/maven_mithun_web_application_snapshot/</url>
+	      <url>http://13.235.42.112:8081/repository/mahindra_snapshots_new/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
